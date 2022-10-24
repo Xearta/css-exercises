@@ -1,0 +1,19 @@
+.pClass {
+  background: rgba(254, 158, 158, 1);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.biggerP {
+  font-size: 24px;
+}
+
+#secondEle {
+  color: rgba(0, 9, 248, 1);
+  font-size: 36px;
+}
+
+#fourthEle {
+  background: rgba(119, 254, 127, 1);
+  font-size: 24px;
+  font-weight: bold;
+}
